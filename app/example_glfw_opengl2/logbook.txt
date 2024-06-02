@@ -1,0 +1,71 @@
+
+D 2000 1 1
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+
+D 2010 2 10
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+
+D 2020 3 11
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+
+D 2023 4 12
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+B Arms
+E Curls 1 1 1 
+E Hammer-Curls 1 1 1 
+
+D 2024 3 18
+B Legs
+E Lounges 0 0 0 
+
+D 2024 3 19
+B Chest
+E Bench-Press 0 0 0 
+E Incline 0 0 0 
+
+D 2024 3 20
+B Arms
+E Curls 0 0 0 
+E Hammer-Curls 4 5 4 
+
+D 2024 5 22
+B Arms
+E Curls 4 15 10 
+B Umeri
+E Press 4 15 10 
+E hugger 4 25 10 
+
+D 2024 5 23
+B Arms
+E Curls 3 15 10 
+E Hammer-Curls 3 15 10 
+B Back
+E Partial-Pullups 0 60 0 
+
+D 2024 5 24
+B Chest
+E Pushup 0 100 0 
+B Arms
+E Overhead-Press 4 12 20 
+
+D 2024 5 27
+B Arms
+E Curls 4 5 4 
+
