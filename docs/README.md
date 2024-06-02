@@ -11,5 +11,6 @@ The user can select the number of sets, reps and weight for each exercise and al
 
 -A stopwatch equipped with an alarm and a rep counter
 
-![image](https://github.com/Deorak/App-Workout-Final/assets/132852610/8808ce0b-c0c1-4a3a-8de1-667869aac5e4)
+![image](https://github.com/Deorak/App-Workout-Final/assets/132852610/c12bd1d2-b6b2-4c76-b02d-267395939cf9)
+
 ![image](https://github.com/Deorak/App-Workout-Final/assets/132852610/ef4bbb4e-f3e5-48e4-97f8-733a2a272448)
