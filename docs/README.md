@@ -1,3 +1,8 @@
+For the GUI I've decided to use Dear ImGui https://github.com/ocornut/imgui
+
+The code I wrote for the app is found the files "base_function.hpp" and "allclass.hpp"
+
+
 The app consists of:
 
 -A workout list in which the user can create his custom exercises. 
